@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224100026
+# Name: JAYASURYA B
+# Date: 15-05-2026
 
 
 # AIM:
